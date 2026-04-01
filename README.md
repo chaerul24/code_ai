@@ -20,5 +20,5 @@ AI-powered CLI tool for real-time code generation, editing, and developer workfl
 ### 1. Clone repository
 ```bash
 git clone https://github.com/chaerul24/code_ai.git
-cd code-ai
+cd code_ai
 node main.js
