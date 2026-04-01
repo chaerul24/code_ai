@@ -21,3 +21,4 @@ AI-powered CLI tool for real-time code generation, editing, and developer workfl
 ```bash
 git clone https://github.com/username/code-ai.git
 cd code-ai
+node main.js
